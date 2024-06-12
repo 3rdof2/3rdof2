@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @3rdof2
+# 👋 Hi, I’m 3rdof2
 I'm an engineer by education, a program manager and systems engineer by profession, and a amature hobbyist in Golang, GIS, and space tracking. This repository includes products that I've built for my own learning or use.
 
 ## About Me
