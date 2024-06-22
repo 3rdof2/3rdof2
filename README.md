@@ -15,4 +15,4 @@ I'm an engineer by education, a program manager and systems engineer by professi
 ## Projects
 - `sgp4` is a Golang translation of the C++ astrodynamics algorithm publsihed by CelesTrak, written by David Vallado on 28 Jun 2005, and based on the methodology originally published through the AIAA Spacetrack Report #3
 - `Haumea` is a redis-like in-memory key value store written in Golang and inspired by the "Build Your Own Redis with C/C++" book written by [build-your-own.org](https://build-your-own.org/redis)
-- `Ixion` is a sqlite-like on-disk database written in Golang and inspired by the "Build Your Own Database From Scratch" book written by [build-your-own.org](https://build-your-own.org/database/)
+- `Ixion` is a file-based database written in Golang and inspired by the "Build Your Own Database From Scratch" book written by [build-your-own.org](https://build-your-own.org/database/)
